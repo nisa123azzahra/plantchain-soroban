@@ -15,6 +15,6 @@ To empower plant enthusiasts and agricultural communities to digitally document 
 
 ## ID Smart Contract
 ```
-CONTRACT ID: <PASTE CONTRACT ID KAMU DI SINI>
-NETWORK: Stellar Testnet (Soroban)
+CONTRACT ID: CB3WWRPPIFAEFML4GV5ROWZPTDH2VFZZSRTJSMQ6PCYUVFDFFHZUZOEI
+NETWORK: Stellar Testnet
 ```
